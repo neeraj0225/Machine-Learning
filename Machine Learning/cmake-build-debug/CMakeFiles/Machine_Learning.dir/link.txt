@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Machine_Learning.dir/Neural_Network.cpp.o  -o Machine_Learning 
